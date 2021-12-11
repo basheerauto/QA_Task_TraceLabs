@@ -43,7 +43,7 @@
 <p><strong>Framework Design Tools</strong></p>
 </td>
 <td style="width: 875.84px;">
-<p><strong>Java 1.8 , </strong></p>
+<p><strong>Java 8 , </strong></p>
 <p><strong>BDD Cucumber, Selenium, Maven, JVM Cucumber Report and POM Pattern</strong></p>
 </td>
 </tr>
